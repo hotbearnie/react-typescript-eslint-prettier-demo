@@ -1,0 +1,14 @@
+{
+  "source": {
+        "fixAll": {
+          "eslint": {
+             "editor": {
+                 "codeActionsOnSave": true
+              }
+           }
+        }
+      },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+}
