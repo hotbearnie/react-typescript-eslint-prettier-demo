@@ -1,7 +1,7 @@
 {
   "name": "@nieshixiong/eslint-config-demo",
   "version": "1.0.0",
-  "description": "have basic eslint typescript prettier configs demo",
+  "description": "一份集成了typescript、eslint、prettier的基础配置",
   "main": "index.js",
   "author": "nieshixiong",
   "license": "MIT",
